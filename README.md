@@ -8,3 +8,4 @@ Link: https://huggingface.co/course
 
 ## Tokenizers
 - [x] Training a new tokenizer from old one
+- [x] Fast Tokenizers special powers and applying it on token classification pipeline
